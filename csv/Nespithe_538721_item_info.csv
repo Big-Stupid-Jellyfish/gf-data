@@ -1,68 +1,69 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2019-02-11 17:15:45
-item-10,Dummy Core,1112
-item-31,Basic Training Data,9425
-item-32,Intermediate Training Data,5937
-item-33,Advanced Training Data,7936
+item-10,Dummy Core,1321
+item-31,Basic Training Data,7545
+item-32,Intermediate Training Data,7463
+item-33,Advanced Training Data,9283
 -1,kalina_level,30
--1,kalina_favor,169514
-item-1,T-Doll Contract,1997
-item-2,Equipment Contract,514
-item-3,Quick Production Contract,1143
-item-4,Quick Repair Contract,10965
+-1,kalina_favor,169889
+item-1,T-Doll Contract,1817
+item-2,Equipment Contract,598
+item-3,Quick Production Contract,1147
+item-4,Quick Repair Contract,11075
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,6
 item-8,Quick Training Contract,151
-item-9,Enhancement Capsule,3886
-item-11,Key Card,27
-item-12,Points,90
+item-9,Enhancement Capsule,3982
+item-11,Key Card,0
+item-12,Points,0
 item-13,Name Change Card,5
-item-14,Original Sample,85
-item-15,Pure Sample,265
-item-16,Quick Analysis Contract,1291
-item-17,Data Patch,456
-item-41,Token,10969
+item-14,Original Sample,155
+item-15,Pure Sample,48
+item-16,Quick Analysis Contract,1310
+item-17,Data Patch,471
+item-41,Token,11096
 item-42,Exchange Ticket,0
 item-43,Black Card,10
-item-44,Calibration Ticket,3553
-item-45,Memory Fragment,10479
-item-46,Special Combat Report,11466
+item-44,Calibration Ticket,2363
+item-45,Memory Fragment,9559
+item-46,Special Combat Report,11601
 item-47,Theater Material,7
-item-50,Universal Parts,3421
+item-50,Universal Parts,2229
 item-51,New Type Fire-Control Component,62
-item-53,Gachapon Ticket,85
+item-53,Gachapon Ticket,170
 item-100,Elite Griffin Combat Medal,8
 item-101,Combat Ranking Medal,137
 item-103,Challenger Medal,25
 item-104,Elite Adventurer Medal,7
 item-105,Sangvis-Griffin Coalition Medal,5
-item-106,Chess Champion Medal,114
+item-106,Chess Champion Medal,126
 item-304,Central Data: M2,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,2751
-item-507,Surplus EXP,472682
-item-508,Friendship Points,61930
-item-509,Fairy Command,75
+item-506,Battery,3818
+item-507,Surplus EXP,387529
+item-508,Friendship Points,64460
+item-509,Fairy Command,0
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,570
-item-513,Dark Star Kernel,3925
-item-514,Petri Dish,2527
-item-515,Basic Training Keycode,16370
-item-516,Advanced Training Keycode,8141
+item-512,Supernova Kernel,580
+item-513,Dark Star Kernel,4625
+item-514,Petri Dish,2841
+item-515,Basic Training Keycode,16918
+item-516,Advanced Training Keycode,8011
 item-517,Specified Equipment Contract,79
-item-519,HOC General Data,217
+item-519,HOC General Data,220
 item-520,Frag Grenade,115
 item-521,Stun Grenade,10
 item-522,Turret,2
+item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,927
+item-525,Quick Auto-Battle Contract,960
 item-601,Infinite Surprise Dye,9
 item-602,Colorful Specified Dye,0
 item-603,Potential Energy,0
-item-604,Electronic Impulse,2
-item-605,Aid Commission,110
+item-604,Electronic Impulse,0
+item-605,Aid Commission,109
 item-606,Transfer Catalyst,135
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -347,6 +348,7 @@ item-1913,Icon: Demon Overlord ☆ Mind's Eye,1
 item-1914,ID: Cozy Tatami,1
 item-1915,Background: Birthplace of Dreams,1
 item-1916,Background: Promised Dream Hotel,1
+item-1930,Architect - Type NVW Icon,1
 item-1990,Icon: Pink Eye of Enthrallment,1
 item-1991,Icon: Purple Night of Rapture,1
 item-1992,ID card: Maelstrom of Pink and Purple,1
@@ -359,23 +361,23 @@ item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
 item-2124,ID Card: Mirror Stage,1
-item-4001,City's Gift,8738
-item-4002,Snowfield's Gift,23852
-item-4003,Forest's Gift,13264
-item-4004,Wasteland's Gift,7142
+item-4001,City's Gift,11672
+item-4002,Snowfield's Gift,26525
+item-4003,Forest's Gift,14285
+item-4004,Wasteland's Gift,11182
 item-6001,Ordinary Meat Bun,81
-item-6002,Bundle of Meat Buns,100
-item-6003,Trove of Meat Buns,124
-item-6004,Commonfolk Standard,51
-item-6005,Comfort Bucket for One,57
-item-6006,Full Meal for Two,134
-item-6007,Strawberry Cheesecake Slice,67
-item-6008,One Week's Cake Selection,88
-item-6009,Sweet Explosives,172
+item-6002,Bundle of Meat Buns,101
+item-6003,Trove of Meat Buns,125
+item-6004,Commonfolk Standard,52
+item-6005,Comfort Bucket for One,58
+item-6006,Full Meal for Two,135
+item-6007,Strawberry Cheesecake Slice,68
+item-6008,One Week's Cake Selection,89
+item-6009,Sweet Explosives,173
 item-6010,"Baby  B-A-B-Y.",60
 item-6011,Streetside Oden,70
-item-6012,Wild Honeycomb,66
-item-6013,Icy Theater,65
+item-6012,Wild Honeycomb,68
+item-6013,Icy Theater,67
 item-7001,Candy Pocket,0
 item-7003,Worrywart,1
 item-7004,Lovestruck,1
@@ -436,8 +438,8 @@ item-100073,Star Ornament,0
 item-100074,Nova Medal·A Snowy Night Capriccio,3
 item-100075,Platinum Medal·A Snowy Night Capriccio,2
 item-100077,Supply Box - Mirror Stage,0
-item-100078,Nova Medal - Mirror Stage,334
-item-100079,Platinum Medal - Mirror Stage,843
+item-100078,Nova Medal - Mirror Stage,4
+item-100079,Platinum Medal - Mirror Stage,3
 item-100080,True Core Mask - Mirror Stage,1
 item-100081,Nova Medal - The Photo Studio Mystery,3
 item-100082,Platinum Medal - The Photo Studio Mystery,3
@@ -514,17 +516,17 @@ item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
 gift-100001,Lollipop,253
 gift-100002,Ice Cream Cone,194
-gift-100003,Strawberry Custard Cheesecake,2369
+gift-100003,Strawberry Custard Cheesecake,2451
 gift-100005,Mulan Tea,40
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,36835
+gift-200001,Combat Report,33937
 gift-200003,Beer on Discount,165
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,7703
+gift-400001,Rapid Growth Disk,8307
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
