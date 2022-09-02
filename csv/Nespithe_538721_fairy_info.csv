@@ -20,6 +20,7 @@
 239263,20,★,0,1,Fireworks Fairy,3.6,8.4,3.6,0.8,0.0,Splendor,1,Locked
 239264,20,★★★★★,550,100,Fireworks Fairy,32.0,75.0,32.0,8.0,0.0,Damage II,6,Locked
 244020,25,★★★★★,3000,100,Twin Fairies,18.0,60.0,48.0,12.0,0.0,Damage II,10,Locked
+245324,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
 246152,5,★★★★★,3000,100,Defense Fairy,22.0,0.0,80.0,20.0,0.0,Fervor,10,Locked
 260065,1005,★★★★★,550,100,Sehra & Nina,15.0,40.0,50.0,0.0,20.0,Fervor,9,Locked
 294369,1006,★★★★★,550,100,Preiya & Camilia,22.0,50.0,10.0,10.0,22.0,Fervor,1,Locked
@@ -50,7 +51,6 @@
 569297,1004,★,0,1,Suee,0.0,0.0,14.0,3.6,6.0,Keen,1,Locked
 583989,11,★★★,585,95,Parachute Fairy,21.0,0.0,18.6,4.8,23.4,Critical I,10,Locked
 588759,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0.0,Fervor,1,Locked
-601680,11,★,0,60,Parachute Fairy,10.8,0.0,10.0,2.4,12.0,Fervor,10,Locked
 601893,11,★,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,6.4,Sturdy,1,Locked
 608297,1008,★★★★★,550,100,Kouji,18.0,28.0,65.0,17.0,0.0,Armor II,2,Locked
 612491,1008,★,0,1,Kouji,3.2,5.2,12.0,3.2,0.0,Sturdy,1,Locked
@@ -70,7 +70,6 @@
 687072,11,★,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,6.4,Accuracy I,1,Locked
 687341,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Evasion II,1,
 700166,9,★,0,1,Airstrike Fairy,4.8,8.0,6.4,1.6,0.0,Aim,1,
-703827,11,★,60,35,Parachute Fairy,8.8,0.0,8.0,2.0,9.6,Assault,10,Locked
 705184,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Aim,1,
 708179,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,8.4,Evasion II,1,
 708810,4,★,0,1,Shield Fairy,4.0,12.0,16.0,0.0,0.0,Aim,1,
@@ -130,5 +129,12 @@
 742499,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0.0,Armor I,1,
 742654,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Evasion I,1,
 742874,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Keen,1,
+745708,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,8.4,Critical II,1,
+745719,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Armor II,1,
+745793,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0.0,Assault,1,
+745795,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Assault,1,
+746109,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0.0,Sturdy,1,Locked
+746110,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0.0,Cheering Type,1,Locked
 45866,16,★★★★★,3000,100,Rescue Fairy,32.0,80.0,64.0,0.0,0.0,Damage II,10,Locked
-245324,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,40.0,Damage II,10,Locked
+601680,11,★,0,61,Parachute Fairy,10.8,0.0,10.0,2.4,12.4,Fervor,10,Locked
+703827,11,★,60,36,Parachute Fairy,8.8,0.0,8.0,2.0,10.0,Assault,10,Locked
